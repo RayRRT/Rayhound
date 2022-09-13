@@ -11,7 +11,7 @@ Dirty code to learn more about ldap queries in C#
 - Get TGS to Kerberoast (using KerberosRequestorSecurityToken, i just implemented https://github.com/GhostPack/SharpRoast here)
 - Domain & Forest trusts ( Using GetCurrentForest method and TrustRelationshipInformation fromSystem.DirectoryServices.ActiveDirectory)
 
-TODO: I should clean up the code, but the goal was to understand how to launch ldap queries from C# so it probably remains that dirty :)
+TODO: I should clean up the code, but the goal was to understand how to launch ldap queries from C# so it probably stays that dirty :), but I will try to add more queries, parse arguments and follow good coding practices.
 
 https://user-images.githubusercontent.com/52030285/189893568-20402a7c-6226-42e0-8672-f87411c0a988.mp4
 
