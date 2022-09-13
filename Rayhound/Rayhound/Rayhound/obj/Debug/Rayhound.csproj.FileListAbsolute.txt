@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Ray\Rayhound\Rayhound\Rayhound\bin\Debug\Rayhound.exe.config
+C:\Users\Administrator\source\repos\Ray\Rayhound\Rayhound\Rayhound\bin\Debug\Rayhound.exe
+C:\Users\Administrator\source\repos\Ray\Rayhound\Rayhound\Rayhound\bin\Debug\Rayhound.pdb
+C:\Users\Administrator\source\repos\Ray\Rayhound\Rayhound\Rayhound\obj\Debug\Rayhound.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Ray\Rayhound\Rayhound\Rayhound\obj\Debug\Rayhound.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ray\Rayhound\Rayhound\Rayhound\obj\Debug\Rayhound.exe
+C:\Users\Administrator\source\repos\Ray\Rayhound\Rayhound\Rayhound\obj\Debug\Rayhound.pdb
